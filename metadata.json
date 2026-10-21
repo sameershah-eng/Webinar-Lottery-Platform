@@ -1,0 +1,6 @@
+{
+  "name": "SENTINEL LIVE - Interactive Webinar & Seat Lottery Platform",
+  "description": "Watch live reviews of premium tactical gear, claim numbered seats, engage in real-time Q&A and polls, and verify provably fair draws on air.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
